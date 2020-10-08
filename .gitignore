@@ -1,3 +1,5 @@
 secrets.sh
 *.pyc
 env/
+markov-discord-new/
+.vscode/
